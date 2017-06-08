@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">GNSS Raw Measurement</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="clear_aiding_data">Dele all aid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="altitude">altitude</string>
+    <string name="start_mode">start_mode</string>
+    <string name="speed">speed</string>
+    <string name="heading">heading</string>
+    <string name="accuracy">accuracy</string>
+    <string name="TTFF">TTFF</string>
+    <string name="inused">In_used/Total</string>
+    <string name="sv_map">show SV map</string>
+    <string name="settings">settings</string>
+    <string name="COUNT">count</string>
+    <string name="interval">interval</string>
+    <string name="time_out">time out</string>
+    <string name="pre_TTFF">pre_ttff</string>
+    <string name="avg_TTFF">avg_ttff</string>
+    <string name="max_TTFF">max_ttff</string>
+    <string name="logpath">/sdcard/gpstest</string>
+
+
+    <string name="gnss_svid_label">Svid:</string>
+    <string name="gnss_time_off_set_nanos">TOSN:</string>
+    <string name="gnss_state_label">State:</string>
+    <string name="gnss_received_nanos">RTN:</string>
+    <string name="gnss_receivedSvTimeUncertaintyNanos_label">SvTimeUn:</string>
+    <string name="gnss_Cn0DbHz_label">Cn0DbHz:</string>
+    <string name="gnss_PseudorangeRateMetersPerSecond_label">Pseudorange RMPS:</string>
+    <string name="gnss_PseudorangeRateUncertaintyMetersPerSecond_label">Pseudorange RUMPS:</string>
+    <string name="gnss_AccumulatedDeltaRangeState_label">AcDltRS:</string>
+    <string name="gnss_AccumulatedDeltaRangeMeters_label">AcDltRM:</string>
+
+    <string name="gnss_AccumulatedDeltaRangeUncertaintyMeters_label">AcDltUM:</string>
+    <string name="gnss_CarrierFrequencyHz_label">CarrierFrHz:</string>
+    <string name="gnss_CarrierCycles_label">CarrierCycl:</string>
+    <string name="gnss_CarrierPhase_label">CarrierPhase:</string>
+    <string name="gnss_CarrierPhaseUncertainty_label">CarrierPhaseU:</string>
+    <string name="gnss_MultipathIndicator_label">MultipathIndcator:</string>
+    <string name="gnss_getSnrInDb_label">SnrInDb:</string>
+    <string name="gnss_ConstellationType_label">ConstellationType:</string>
+    <string name="start_updates">Start</string>
+    <string name="stop_updates">Stop</string>
+
+
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last location update time</string>
+
+
+
+    <string name="nmea_updated_message">NMEA updated</string>
+    <string name="location_updated_message">Location updated</string>
+    <string name="GNSS_Measurement">GNSS Measurement</string>
+</resources>
